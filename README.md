@@ -48,5 +48,5 @@ I focus on creating clean UI/UX and integrating real APIs to deliver complete, f
 
 ## 📫 Contact
 
-- Upwork: https://www.upwork.com/freelancers/~018c927383fd858e0e?mp_source=share
+- Upwork: 
 - Email: thangdachoang@gmail.com
