@@ -49,4 +49,4 @@ I focus on creating clean UI/UX and integrating real APIs to deliver complete, f
 ## 📫 Contact
 
 - Upwork: 
-- Email: thangdachoang@gmail.com
+- Email: lehoangdacthang@gamil.com
